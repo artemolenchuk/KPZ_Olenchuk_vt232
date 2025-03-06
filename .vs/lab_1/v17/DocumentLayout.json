@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Interfaces\\IAnimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Interfaces\\IEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IEnclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Interfaces\\IEnclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Interfaces\\IFood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\LargeEnclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\LargeEnclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\SmallEnclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\SmallEnclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Veterinarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Veterinarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Zookeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Models\\Zookeeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Services\\ZooInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Zoo\\Services\\ZooInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:program\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Interfaces\\IAnimal.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "program\\Zoo\\Interfaces\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:32.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Interfaces\\IEmployee.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "program\\Zoo\\Interfaces\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:30.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEnclosure.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IEnclosure.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Interfaces\\IEnclosure.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IEnclosure.cs",
+              "RelativeToolTip": "program\\Zoo\\Interfaces\\IEnclosure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:27.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFood.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IFood.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Interfaces\\IFood.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Interfaces\\IFood.cs",
+              "RelativeToolTip": "program\\Zoo\\Interfaces\\IFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Animal.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Animal.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:21.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Elephant.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Elephant.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Elephant.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Elephant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:20.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Employee.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Employee.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enclosure.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Enclosure.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Enclosure.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Enclosure.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Enclosure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Food.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Food.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Grass.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Grass.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Grass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:06.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LargeEnclosure.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\LargeEnclosure.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\LargeEnclosure.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\LargeEnclosure.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\LargeEnclosure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:05.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Lion.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Lion.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Lion.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Lion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Meat.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Meat.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Meat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SmallEnclosure.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\SmallEnclosure.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\SmallEnclosure.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\SmallEnclosure.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\SmallEnclosure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:32:02.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Veterinarian.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Veterinarian.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Veterinarian.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Veterinarian.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Veterinarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:31:59.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Zookeeper.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Zookeeper.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Models\\Zookeeper.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Models\\Zookeeper.cs",
+              "RelativeToolTip": "program\\Zoo\\Models\\Zookeeper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:31:55.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Program.cs",
+              "RelativeDocumentMoniker": "program\\Program.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Program.cs",
+              "RelativeToolTip": "program\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:29:44.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ZooInventory.cs",
+              "DocumentMoniker": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Services\\ZooInventory.cs",
+              "RelativeDocumentMoniker": "program\\Zoo\\Services\\ZooInventory.cs",
+              "ToolTip": "D:\\univer\\2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\\\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab_1\\program\\Zoo\\Services\\ZooInventory.cs",
+              "RelativeToolTip": "program\\Zoo\\Services\\ZooInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:27:23.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

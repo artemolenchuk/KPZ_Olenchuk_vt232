@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\program",
+    "\\program\\Zoo",
+    "\\program\\Zoo\\Interfaces",
+    "\\program\\Zoo\\Models",
+    "\\program\\Zoo\\Services"
+  ],
+  "SelectedNode": "\\program\\Zoo\\Interfaces\\IAnimal.cs",
+  "PreviewInSolutionExplorer": false
+}
