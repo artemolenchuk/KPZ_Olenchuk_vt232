@@ -9,7 +9,8 @@
 
 **Принцип SOLID:**  
       Принципи SOLID це набір з п'яти принципів для об'єктно-орієнтованого програмування, ось як ці принципи були застосовані.  
-      **S** – Single Responsibility Principle, Кожен клас має лише одну відповідальність.   
+      
+       **S**  – Single Responsibility Principle, Кожен клас має лише одну відповідальність.   
       Наприклад клас [Zookeeper](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Zookeeper.cs) відповідає тільки за роботу з тваринами, а [Veterinarian](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Veterinarian.cs) — за лікування тварин.  
       
       **O** – Open/Closed Principle, Класи мають бути відкритими для розширення, але закритими для змін.   
@@ -39,3 +40,8 @@
 **Принцип Fail Fast:**    
 Принцип "Fail Fast" закликає програму швидко повідомляти про помилки, щоб їх можна було швидше виявити.     
 Реалізація даного принципу є в багатьох клас, наприклад [тут](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/f56616e6de3fd8b649ed7cd842b167ff4ad38890/program/Zoo/Services/ZooInventory.cs#L14)  
+
+**Правильність виконання програми**
+![image](https://github.com/user-attachments/assets/ca25713c-5b82-4402-bf0b-c338b1bc33d3)  
+
+
