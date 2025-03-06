@@ -10,20 +10,20 @@
 **Принцип SOLID:**  
       Принципи SOLID це набір з п'яти принципів для об'єктно-орієнтованого програмування, ось як ці принципи були застосовані.  
       
-       **S**  – Single Responsibility Principle, Кожен клас має лише одну відповідальність.   
-      Наприклад клас [Zookeeper](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Zookeeper.cs) відповідає тільки за роботу з тваринами, а [Veterinarian](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Veterinarian.cs) — за лікування тварин.  
+**S**  – Single Responsibility Principle, Кожен клас має лише одну відповідальність.   
+Наприклад клас [Zookeeper](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Zookeeper.cs) відповідає тільки за роботу з тваринами, а [Veterinarian](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Veterinarian.cs) — за лікування тварин.  
       
-      **O** – Open/Closed Principle, Класи мають бути відкритими для розширення, але закритими для змін.   
-      Я використовую наслідування для розширення функціональності без зміни базового класу, один з  прикладів є [клас Lion](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Lion.cs)
+**O** – Open/Closed Principle, Класи мають бути відкритими для розширення, але закритими для змін.   
+Я використовую наслідування для розширення функціональності без зміни базового класу, один з  прикладів є [клас Lion](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Lion.cs)
       
-      **L** – Liskov Substitution Principle. підкласи повинні замінювати базові класи без порушення коректності програми.   
-      В моєму випадку явикористовую підкласи [клас Lion](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Lion.cs), [клас Elephant](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Elephant.cs), [Zookeeper](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Zookeeper.cs), і всі вони коректно замінюють базові класи.  
+**L** – Liskov Substitution Principle. підкласи повинні замінювати базові класи без порушення коректності програми.   
+В моєму випадку явикористовую підкласи [клас Lion](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Lion.cs), [клас Elephant](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Elephant.cs), [Zookeeper](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Models/Zookeeper.cs), і всі вони коректно замінюють базові класи.  
       
-      **I** – Interface Segregation Principle, інтерфейси повинні бути спеціалізованими та не змушувати класи реалізовувати методи, які вони не використовують.   
-      Я використовую інтерфейси, такі як [IAnimal](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Interfaces/IAnimal.cs), [IEmployee](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Interfaces/IEmployee.cs), [IEnclosure](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Interfaces/IEnclosure.cs), вони є спеціалізовані і не містять зайвих методів.  
+**I** – Interface Segregation Principle, інтерфейси повинні бути спеціалізованими та не змушувати класи реалізовувати методи, які вони не використовують.   
+Я використовую інтерфейси, такі як [IAnimal](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Interfaces/IAnimal.cs), [IEmployee](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Interfaces/IEmployee.cs), [IEnclosure](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Interfaces/IEnclosure.cs), вони є спеціалізовані і не містять зайвих методів.  
       
-      **D** – Dependency Inversion Principle, залежності мають бути інжектовані в класи, а не створюватися всередині них.   
-      У моєму коді це можна побачити у використанні інтерфейсів та передачі залежностей через конструктори. Приклад є в класі [ZooInventory](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Services/ZooInventory.cs)
+**D** – Dependency Inversion Principle, залежності мають бути інжектовані в класи, а не створюватися всередині них.   
+У моєму коді це можна побачити у використанні інтерфейсів та передачі залежностей через конструктори. Приклад є в класі [ZooInventory](https://github.com/artemolenchuk/KPZ_Olenchuk_vt232/blob/lab1/program/Zoo/Services/ZooInventory.cs)
 
 **Принцип YAGNI:**  
 Принцип YAGNI закликає не додавати функціональність, яка не є необхідною на даний момент.   
@@ -44,4 +44,6 @@
 **Правильність виконання програми**
 ![image](https://github.com/user-attachments/assets/ca25713c-5b82-4402-bf0b-c338b1bc33d3)  
 
+![image](https://github.com/user-attachments/assets/31394644-d7f2-47bb-820f-89ccf71d6d77)  
+спрацювання Fail Fast
 
